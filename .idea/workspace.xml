@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cca101aa-9a87-4425-9f36-85a697b5651a" name="Changes" comment="bhgzt tf zu fztf tz fzt g u">
-      <change beforePath="$PROJECT_DIR$/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/video.html" afterDir="false" />
+    <list default="true" id="cca101aa-9a87-4425-9f36-85a697b5651a" name="Changes" comment="hoi">
+      <change afterPath="$PROJECT_DIR$/image/flugzeug-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/flugzeug-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/flugzeug-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/flugzeug-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/flugzeug-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Tina Kavazov/WebstormProjects/Modul287/image",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654853869068</updated>
       <workItem from="1654853870730" duration="590000" />
-      <workItem from="1655965192017" duration="3225000" />
+      <workItem from="1655965192017" duration="3889000" />
     </task>
     <task id="LOCAL-00001" summary="navigation">
       <created>1655970982007</created>
@@ -68,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655971884158</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hoi">
+      <created>1655972029356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655972029356</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="navigation" />
     <MESSAGE value="bhgzt tf zu fztf tz fzt g u" />
-    <option name="LAST_COMMIT_MESSAGE" value="bhgzt tf zu fztf tz fzt g u" />
+    <MESSAGE value="hoi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoi" />
   </component>
 </project>
