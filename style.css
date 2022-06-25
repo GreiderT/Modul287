@@ -1,3 +1,64 @@
-body{
-    background-color: red;
+.flex{
+    display: flex;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.center-img{
+    justify-content: center;
+}
+
+.buffer{
+    margin: 10px;
+}
+
+.padding10{
+    padding: 10px;
+}
+
+.padding50{
+    padding: 50px;
+}
+
+.buffer-down{
+    margin-bottom: 10px;
+}
+.buffer-down-50{
+    margin-bottom: 50px;
+}
+
+.buffer-top-50{
+    margin-top: 50px;
+}
+
+.buffer50{
+    margin:50px;
+}
+
+.height80{
+    height: 80%;
+}
+
+.height50{
+    height: 50%;
+}
+
+.height70{
+    height: 70%;
+}
+
+.height60{
+    height: 60%;
+}
+
+.ha{
+    width: 90%;
+}
+
+footer{
+    background-color: #007bff;
+    color: white;
 }
