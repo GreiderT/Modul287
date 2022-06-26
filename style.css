@@ -62,3 +62,9 @@ footer{
     background-color: #007bff;
     color: white;
 }
+
+video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
