@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cca101aa-9a87-4425-9f36-85a697b5651a" name="Changes" comment="Anpassung link Bootstrap&#10;Verschiedene Elemente eingebunden &#10;Infos eingefügt&#10;Galerie&#10;Indexseite eingebeut und grob gestylet">
+    <list default="true" id="cca101aa-9a87-4425-9f36-85a697b5651a" name="Changes" comment="footer auf alle seiten&#10;slideshow in galerie&#10;video mit ton eingebunden">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/informationen.html" beforeDir="false" afterPath="$PROJECT_DIR$/informationen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,25 +27,30 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ANdEvm7QaLyEuJQPAX6HSFeC7M" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tina Kavazov/WebstormProjects/Modul287/image&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tina Kavazov\WebstormProjects\Modul287\video" />
+      <recent name="C:\Users\Tina Kavazov\WebstormProjects\Modul287\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,9 +60,12 @@
       <option name="presentableId" value="Default" />
       <updated>1654853869068</updated>
       <workItem from="1654853870730" duration="590000" />
-      <workItem from="1655965192017" duration="3225000" />
-      <workItem from="1656250678307" duration="1377000" />
-      <workItem from="1656532212839" duration="422000" />
+      <workItem from="1655965192017" duration="3889000" />
+      <workItem from="1656258762299" duration="361000" />
+      <workItem from="1656310117589" duration="22000" />
+      <workItem from="1656310162576" duration="597000" />
+      <workItem from="1656316893221" duration="597000" />
+      <workItem from="1656429462944" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="navigation">
       <created>1655970982007</created>
@@ -72,14 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655971884158</updated>
     </task>
-    <task id="LOCAL-00003" summary="Anpassung link Bootstrap&#10;Verschiedene Elemente eingebunden &#10;Infos eingefügt&#10;Galerie&#10;Indexseite eingebeut und grob gestylet">
-      <created>1656188709379</created>
+    <task id="LOCAL-00003" summary="hoi">
+      <created>1655972029356</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1656188709379</updated>
+      <updated>1655972029356</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="footer auf alle seiten&#10;slideshow in galerie&#10;video mit ton eingebunden">
+      <created>1656255258696</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656255258696</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,7 +115,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="navigation" />
     <MESSAGE value="bhgzt tf zu fztf tz fzt g u" />
-    <MESSAGE value="Anpassung link Bootstrap&#10;Verschiedene Elemente eingebunden &#10;Infos eingefügt&#10;Galerie&#10;Indexseite eingebeut und grob gestylet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Anpassung link Bootstrap&#10;Verschiedene Elemente eingebunden &#10;Infos eingefügt&#10;Galerie&#10;Indexseite eingebeut und grob gestylet" />
+    <MESSAGE value="hoi" />
+    <MESSAGE value="footer auf alle seiten&#10;slideshow in galerie&#10;video mit ton eingebunden" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer auf alle seiten&#10;slideshow in galerie&#10;video mit ton eingebunden" />
   </component>
 </project>
